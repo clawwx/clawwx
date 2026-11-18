@@ -71,7 +71,7 @@
 <!-- O @<sha> NÃO se escreve à mão: quem troca é o scripts/pin-cards.py, chamado
      pela Action. Os zeros são o ponto de partida; a primeira rodada da Action
      conserta. Trocar por @main faz o camo mostrar o card de ontem. -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@0000000000000000000000000000000000000000/profile/langs.svg" alt="Most used languages" height="190"></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@0000000000000000000000000000000000000000/profile/sequencia.svg" alt="Contribution streak" height="190"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@0b0fdd0fc87f894848ace03600e3a2acbd1177c2/profile/langs.svg" alt="Most used languages" height="190"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@0b0fdd0fc87f894848ace03600e3a2acbd1177c2/profile/sequencia.svg" alt="Contribution streak" height="190"></a>
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@0000000000000000000000000000000000000000/profile/cobra.svg" alt="Snake eating the contribution grid" width="100%"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@0b0fdd0fc87f894848ace03600e3a2acbd1177c2/profile/cobra.svg" alt="Snake eating the contribution grid" width="100%"></a>
