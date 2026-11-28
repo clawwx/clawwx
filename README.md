@@ -71,7 +71,7 @@
 <!-- O @<sha> NÃO se escreve à mão: quem troca é o scripts/pin-cards.py, chamado
      pela Action. Os zeros são o ponto de partida; a primeira rodada da Action
      conserta. Trocar por @main faz o camo mostrar o card de ontem. -->
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@3579143c0c7aab9d1849a60d3ede0396f57538ae/profile/langs.svg" alt="Most used languages" height="190"></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@3579143c0c7aab9d1849a60d3ede0396f57538ae/profile/sequencia.svg" alt="Contribution streak" height="190"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@9570cfbcf480945df9cf3bd3bcc2dbaf74474beb/profile/langs.svg" alt="Most used languages" height="190"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@9570cfbcf480945df9cf3bd3bcc2dbaf74474beb/profile/sequencia.svg" alt="Contribution streak" height="190"></a>
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@3579143c0c7aab9d1849a60d3ede0396f57538ae/profile/cobra.svg" alt="Snake eating the contribution grid" width="100%"></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/clawwx/clawwx@9570cfbcf480945df9cf3bd3bcc2dbaf74474beb/profile/cobra.svg" alt="Snake eating the contribution grid" width="100%"></a>
